@@ -1,0 +1,26 @@
+{
+  "Profiles": {
+    "Battery": {
+      "PowerPlan": "Power saver",
+      "StopServices": [
+        "WSearch"
+      ],
+      "KillProcesses": [
+        "Telegram",
+        "WhatsApp",
+        "AndroidEmulatorEn",
+        "aow_exe",
+        "VLC"
+      ],
+      "ApplyEnergyRecommendations": true
+    },
+    "AC": {
+      "PowerPlan": "Balanced",
+      "StartServices": [
+        "WSearch"
+      ],
+      "ApplyEnergyRecommendations": false
+    },
+    "Custom": {}
+  }
+}

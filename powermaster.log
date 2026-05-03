@@ -1,0 +1,12 @@
+2026-05-03 15:35:57 [INFO] Battery report generated: C:\Users\HP\battery-report.html
+2026-05-03 15:37:18 [INFO] Relaunch requested as Administrator
+2026-05-03 15:37:54 [WARN] Efficiency Mode error for PID 2237: Cannot find a process with the process identifier 2237.
+2026-05-03 15:38:39 [INFO] Power plan set: Power saver
+2026-05-03 15:38:40 [INFO] Service stopped: WSearch
+2026-05-03 15:38:40 [INFO] Process stopped: Telegram
+2026-05-03 15:38:40 [INFO] Process stopped: WhatsApp
+2026-05-03 15:38:40 [INFO] Process stopped: AndroidEmulatorEn
+2026-05-03 15:38:40 [INFO] Process stopped: aow_exe
+2026-05-03 15:38:40 [INFO] Process stopped: VLC
+2026-05-03 15:38:42 [INFO] Energy recommendations applied
+2026-05-03 15:38:42 [INFO] Profile applied: Battery
